@@ -52,7 +52,7 @@ conda activate clean-log-test
 ```
 2. Execution:
 - You can execute and visualize the entire cleaning process via notebooks/cleaning.ipynb.
-- The notebook processes the raw data located in data/uncleaned.csv.
+- The notebook processes the raw data located in data/uncleaned.csv: an AI generated, low-volume, sample data to simulate utmost dirtiness and noiseness at some columns.
 - It leverages the DataCleaner class from src/cleaning.py to run automated cleaning scripts.
 - You might intentionally play with the notebook parameters to evoke embedded errors in the python scripts.
     - Modular Architecture: Cleaning logic and logs is separated from the logging utility for better maintainability.
