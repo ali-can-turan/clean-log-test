@@ -1,0 +1,9 @@
+# --- Python Basics ---
+__pycache__/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Testing & Coverage ---
+.pytest_cache/
