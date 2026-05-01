@@ -1,0 +1,41 @@
+27 - 01-05-2026 03.25:36 - INFO - str_clean - Function is called.
+
+33 - 01-05-2026 03.25:36 - DEBUG - str_clean - Process STARTED for column input and for char [_.].
+
+35 - 01-05-2026 03.25:36 - DEBUG - str_clean - Process COMPLETED SUCCESSFULLY for column input and for char [_.].
+
+
+52 - 01-05-2026 03.25:36 - INFO - case_assign - Function is called.
+
+58 - 01-05-2026 03.25:36 - DEBUG - case_assign - Process STARTED for column input and for case upper.
+
+61 - 01-05-2026 03.25:36 - DEBUG - case_assign - Process COMPLETED SUCCESSFULLY for column input and for case upper.
+
+
+79 - 01-05-2026 03.25:36 - INFO - datetime_converter - Function is called.
+
+86 - 01-05-2026 03.25:36 - DEBUG - datetime_converter - Process STARTED for column date and for the format datetime.
+
+88 - 01-05-2026 03.25:36 - DEBUG - datetime_converter - Process ENDED SUCCESSFULLY for column date and for the format datetime.
+
+
+119 - 01-05-2026 03.25:36 - INFO - null_rows - Function is called.
+
+122 - 01-05-2026 03.25:36 - DEBUG - null_rows - Process STARTED for the separator None.
+
+130 - 01-05-2026 03.25:36 - DEBUG - null_rows - Process ENDED SUCCESSFULLY for the separator None.
+
+
+246 - 01-05-2026 03.25:36 - INFO - column_reorder - Function is called.
+
+247 - 01-05-2026 03.25:36 - DEBUG - column_reorder - Process STARTED.
+
+257 - 01-05-2026 03.25:36 - DEBUG - column_reorder - Process COMPLETED SUCCESSFULLY.
+
+
+267 - 01-05-2026 03.25:36 - INFO - numeric_entry_df_generator - Function is called.
+
+270 - 01-05-2026 03.25:36 - DEBUG - numeric_entry_df_generator - Process STARTED.
+
+294 - 01-05-2026 03.25:36 - DEBUG - numeric_entry_df_generator - Process COMPLETED SUCCESSFULLY.
+
