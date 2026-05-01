@@ -10,6 +10,9 @@ This repo harbors a data cleaning notebook together with data, src, log and test
 
 An end-to-end data cleaning and transformation structure designed to automate such processes, maintain detailed execution logs, and ensure code reliability through automated testing.
 
+Please click to open it in binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ali-can-turan/clean-log-test/HEAD)
 ---
 ## 📂 Project Structure
 ```text
