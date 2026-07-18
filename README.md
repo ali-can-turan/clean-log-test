@@ -41,6 +41,7 @@ This project is designed with a modular architecture that decouples the data pro
 🚀 Getting Started!
 1. Installation:
 - Clone the repository and install the dependencies:
+
 ```
 git clone https://github.com/ali-can-turan/clean-log-test
 cd clean-log-test
@@ -68,7 +69,9 @@ conda activate clean-log-test
 - Critical functions are covered by pytest to ensure stability and reliability.
 - You are encouraged to initiate a pytest from the terminal to find out the reliability of src/cleaning.py test suite.
 - So run from the terminal while you are either in the tests file or root directory:
+
 ```
 pytest
 ```
+
 ---
