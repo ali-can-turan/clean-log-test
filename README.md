@@ -45,7 +45,7 @@ This project is designed with a modular architecture that decouples the data pro
 git clone https://github.com/ali-can-turan/clean-log-test
 cd clean-log-test
 
-pip install -r requirements.txt                           # or with conda
+pip install -r requirements.txt
 
 conda env create -f environment.yml
 conda activate clean-log-test
